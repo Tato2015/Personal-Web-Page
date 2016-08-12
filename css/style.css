@@ -181,6 +181,9 @@ body {
 	list-style-type: none;
 	padding: 0px;
 	margin: 0px;
+	display: inline-block;
+	width: 100%;
+	padding-top: 2%;
 }
 
 #main-content article ul li{
@@ -251,4 +254,38 @@ body {
 
 .toolTip:hover .info-toolTip{
 	display: inline;
+}
+
+
+#contacto-article .content ul li{
+	position: relative;
+	float: left;
+	padding-left: 3%;
+}
+
+#container-estudios .content p{
+	margin: 0px;
+}
+
+
+#container-estudios .content .estudios-titulo{
+	display: block;
+	padding: 20px 0px;
+}
+
+#container-portafolio .content .portafolio-titulo{
+	display: block;
+	padding: 20px 0px;
+}
+
+#container-contacto .content .toolTip div{
+	padding: 10px;
+}
+
+#container-contacto .content .bloque-contacto{
+	float: left;
+}
+
+#contacto-article .content .bloque-contacto img{
+	padding-right: 15px;
 }
