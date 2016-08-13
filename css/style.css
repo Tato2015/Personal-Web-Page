@@ -187,8 +187,8 @@ body {
 }
 
 .home
-{
-	background:linear-gradient(0deg,#4C6B9D 0,rgba(21, 29, 42, 0.95) 100%) 0 0/cover;
+{	
+	background:linear-gradient(3deg,#4C6B9D 0,rgba(21, 29, 42, 0.95) 100%) 0 0/cover;
 	/*background-image: url("../protada-mrRobot.jpg");
 	background-size: cover;*/	
 	height: 600px;
